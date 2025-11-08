@@ -1,6 +1,5 @@
 # 🏭 Manufacturing-Analysis
-Project focuses on evaluating manufacturing performance across departments to improve efficiency, productivity, and quality.  
-Production data was analyzed to identify high-cost operations, efficiency gaps, wastage, and quality issues for data-driven decision-making.
+Transforming raw production data into actionable insights to drive efficiency, quality, and cost optimization.
 
 
 ## 🛠️ Tools
